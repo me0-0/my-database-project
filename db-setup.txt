@@ -1,0 +1,8 @@
+
+----------	SQL databases	NoSQL databases
+structure	بتستخدم relational model	doesn’t follow relational model
+flexibility	Fixed/Predefined Schema	Flexible schema
+query language	Standardized SQL	Varied, specific to the database type
+scalability	Typically Vertical scaling	horizontal scaling for distributive environments
+data integrity	ACID compliant, strict data consistency	eventual consistency , varying data consistency 
+use cases	transactional systems , complex queries	big data, real-time analytics , flexible schemas
